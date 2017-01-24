@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "description": "responsive portfolio",
+  "main": "index.html",
+  "keywords": [
+    "portfloio",
+    "responsive",
+    "bootstrap"
+  ],
+  "authors": [
+    "mostafa"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jasny-bootstrap": "^3.1.3",
+    "html5shiv": "^3.7.3"
+  }
+}
